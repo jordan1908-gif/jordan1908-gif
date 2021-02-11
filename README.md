@@ -1,5 +1,8 @@
 ### Hi there, I'm Jordan.
 
+<img src="banner.png" alt="image">
+
+
 ## I'm a full time student pursuing Software Engineering at Asia Pacific University.
 
 - 🌱 I’m currently learning everything 
