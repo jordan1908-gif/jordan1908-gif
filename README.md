@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://open.spotify.com/embed/album/2xZSrcBmvMw9Y8hac6xU7L" width="350" />](https://open.spotify.com/search/perfect%20strangers)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/search/perfect%20strangers)
 
 ### Connect with me:
 
