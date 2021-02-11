@@ -2,14 +2,14 @@
 
 ## I'm a full time student pursuing Software Engineering at Asia Pacific University.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m willing to learn from mentors
+- 🌱 I’m currently learning everything 
+- 👯 Gain new knowledge everyday
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🏸 Fun fact: I love badminton
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://open.spotify.com/embed/album/2xZSrcBmvMw9Y8hac6xU7L" width="350" />](https://open.spotify.com/search/perfect%20strangers)
 
 ### Connect with me:
 
