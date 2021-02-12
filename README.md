@@ -6,7 +6,7 @@
 ## I'm a full time student pursuing Software Engineering at Asia Pacific University.
 
 - 🌱 I’m currently learning everything 
-- 👯 Gain new knowledge everyday
+- 👯 Teamwork makes the dreamwork
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🏸 Fun fact: I love badminton
 
