@@ -38,6 +38,8 @@
 
 <br />
 <br />
+![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan1908-gif&show_icons=true&theme=radical)
+
 
 ---
 
