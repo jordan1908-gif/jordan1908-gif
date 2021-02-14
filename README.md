@@ -38,7 +38,7 @@
 
 <br />
 <br />
-![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordan1908-gif&show_icons=true&theme=radical)
+[<img src="https://github-readme-stats.vercel.app/api?username=jordan1908-gifshow_icons=true&theme=radical"/>](https://github-readme-stats.vercel.app/api?username=jordan1908-gifshow_icons=true&theme=radical)
 
 
 ---
