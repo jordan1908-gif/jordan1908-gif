@@ -38,8 +38,10 @@
 
 <br />
 <br />
-[<img src="https://github-readme-stats.vercel.app/api?username=jordan1908-gifshow_icons=true&theme=radical"/>](https://github-readme-stats.vercel.app/api?username=jordan1908-gifshow_icons=true&theme=radical)
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordan1908-gif&show_icons=true&theme=react&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan1908-gif&layout=compact&theme=react" />
+</p>
 
 ---
 
