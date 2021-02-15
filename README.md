@@ -1,8 +1,6 @@
 ### Hi there, I'm Jordan.
 
 <img src="readme.png" alt="image">
-<img src="wallpaper.PNG" alt="image">
-
 
 
 ## Full time student pursuing Software Engineering at Asia Pacific University.
