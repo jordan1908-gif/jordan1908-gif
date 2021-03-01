@@ -7,8 +7,8 @@
 
 - 🌱 I try my best to learn
 - 👯 Teamwork makes the dreamwork
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 🏸 I love badminton, period.
+- 🥅 2021 Goals: Contribute more to Open Source projects. Get good grades.
+- 🏸 I love badminton.
 
 ### Spotify Playing 🎧
 
