@@ -42,7 +42,7 @@
 ### Status:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordan1908-gif&show_icons=true&theme=material-palenight&line_height=20" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan1908-gif&layout=compact&theme=shades-of-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan1908-gif&layout=compact&theme=material-palenight" />
 </p>
 
 ---
