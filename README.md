@@ -3,7 +3,7 @@
 <img src="readme.png" alt="image">
 
 
-## Full time student pursuing Software Engineering at Asia Pacific University.
+## Full time student pursuing Bachelors in Software Engineering.
 
 - 🌱 I try my best to learn
 - 👯 Teamwork makes the dreamwork
