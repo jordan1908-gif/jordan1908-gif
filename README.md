@@ -5,7 +5,7 @@
 
 ## Full time student pursuing Bachelors in Software Engineering.
 
-- 🌱 I try my best to learn
+- 🌱 Learning
 - 👯 Teamwork makes the dreamwork
 - 🥅 2021 Goals: Contribute more to Open Source projects. Get good grades.
 - 🏸 I love badminton.
