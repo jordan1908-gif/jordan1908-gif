@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/search/perfect%20strangers)
+[<img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="350" />](https://open.spotify.com/search/perfect%20strangers)
 
 ### Connect with me:
 
